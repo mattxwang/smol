@@ -1,0 +1,16 @@
+{
+  "name": "smol",
+  "version": "1.0.0",
+  "repository": "git@github.com:mattxwang/smol.git",
+  "author": "Matt Wang <matt@matthewwang.me>",
+  "license": "MIT",
+  "private": true,
+  "baseUrl": "https://mattxw.com",
+  "homepage": "https://mattxw.com",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
